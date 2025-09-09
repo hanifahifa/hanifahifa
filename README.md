@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, Welcome to My Profile 👋
 
-<!--
-**hanifahifa/hanifahifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩 Tentang Saya
+Halo, saya **Hanifah Utami Sunaryo Putri**, seorang mahasiswi aktif di **Universitas Islam Negeri Maulana Malik Ibrahim Malang**.  
+Saat ini saya sedang fokus belajar **Pemrograman Mobile**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🆔 Identitas
+- **Nama** : Hanifah Utami Sunaryo Putri  
+- **NIM** : 230605110021  
+- **Kelas** : C  
+
+---
+
+## 📚 Mata Kuliah yang Sedang Dipelajari
+| No | Tanggal          | Topik                                     | Laporan   | Repository |
+|----|------------------|-------------------------------------------|-----------|------------|
+| 1  | 3 September 2025 | Pengenalan Mobile Programming dan Setup    | [Laporan 1](https://docs.google.com/document/d/12arj9jfeEkxrdKmFwC59nV3P4B2v8n3EPrshqCxSekk/edit?usp=sharing) | [Modul 1](#) |
