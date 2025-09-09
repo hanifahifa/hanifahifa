@@ -16,4 +16,4 @@ Saat ini saya sedang fokus belajar **Pemrograman Mobile**.
 ## 📚 Mata Kuliah yang Sedang Dipelajari
 | No | Tanggal          | Topik                                     | Laporan   | Repository |
 |----|------------------|-------------------------------------------|-----------|------------|
-| 1  | 3 September 2025 | Pengenalan Mobile Programming dan Setup    | [Laporan 1](https://docs.google.com/document/d/12arj9jfeEkxrdKmFwC59nV3P4B2v8n3EPrshqCxSekk/edit?usp=sharing) | [Modul 1](#) |
+| 1  | 3 September 2025 | Pengenalan Mobile Programming dan Setup    | [Laporan 1](https://docs.google.com/document/d/12arj9jfeEkxrdKmFwC59nV3P4B2v8n3EPrshqCxSekk/edit?usp=sharing) | [Modul 1](https://github.com/hanifahifa/flutter_application_1) |
