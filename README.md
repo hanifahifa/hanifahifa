@@ -16,7 +16,7 @@ Saat ini saya sedang fokus belajar **Pemrograman Mobile**.
 ## 📚 Mata Kuliah yang Sedang Dipelajari
 | No | Tanggal          | Topik                                     | Laporan   | Repository |
 |----|------------------|-------------------------------------------|-----------|------------|
-| 1  | 3 September 2025 | Pertemuan I - Pengenalan Mobile Programming dan Setup Lingkungan    | [laporan disini](https://docs.google.com/document/d/12arj9jfeEkxrdKmFwC59nV3P4B2v8n3EPrshqCxSekk/edit?pli=1&tab=t.0) | [Modul 1](https://github.com/hanifahifa/PRAKTIKUM_MOBILE/tree/modul-1) |
+| 1  | 3 September 2025 | Pertemuan I - Pengenalan Mobile Programming dan Setup Lingkungan    | [laporan disini](https://docs.google.com/document/d/12arj9jfeEkxrdKmFwC59nV3P4B2v8n3EPrshqCxSekk/edit?pli=1&tab=t.0) | [repo disini](https://github.com/hanifahifa/PRAKTIKUM_MOBILE/tree/modul-1) |
 | 2 | 3 September 2025 | Pertemuan II – Widget Row dan Column | [laporan disini](https://docs.google.com/document/d/12arj9jfeEkxrdKmFwC59nV3P4B2v8n3EPrshqCxSekk/edit?pli=1&tab=t.m4wj8fkg5kax) | [repo disini](https://github.com/hanifahifa/PRAKTIKUM_MOBILE/tree/modul-2) |
 | 3  | 10 September 2025 | Pertemuan III - Pengaturan Layout Row dan Column di Flutter | [Laporan disini](https://docs.google.com/document/d/12arj9jfeEkxrdKmFwC59nV3P4B2v8n3EPrshqCxSekk/edit?pli=1&tab=t.p4zvsjz5hc40) | [repo disini](https://github.com/hanifahifa/PRAKTIKUM_MOBILE/tree/modul-3) |
 | 4  | 10 September 2025 | Pertemuan IV – Widget Flexible dan Expanded | [Laporan disini](https://docs.google.com/document/d/12arj9jfeEkxrdKmFwC59nV3P4B2v8n3EPrshqCxSekk/edit?pli=1&tab=t.5os6dzski54d) | [repo disini](https://github.com/hanifahifa/PRAKTIKUM_MOBILE/tree/modul-4) |
