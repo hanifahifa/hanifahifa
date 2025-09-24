@@ -22,4 +22,7 @@ Saat ini saya sedang fokus belajar **Pemrograman Mobile**.
 | 4  | 10 September 2025 | Pertemuan IV – Widget Flexible dan Expanded | [Laporan disini](https://docs.google.com/document/d/12arj9jfeEkxrdKmFwC59nV3P4B2v8n3EPrshqCxSekk/edit?pli=1&tab=t.5os6dzski54d) | [repo disini](https://github.com/hanifahifa/PRAKTIKUM_MOBILE/tree/modul-4) |
 | 5  | 17 September 2025 | Modul V – Widget SizedBox, Spacer, dan Card | [Laporan disini](https://docs.google.com/document/d/12arj9jfeEkxrdKmFwC59nV3P4B2v8n3EPrshqCxSekk/edit?tab=t.lbsmqbhax3im) | [repo disini](https://github.com/hanifahifa/PRAKTIKUM_MOBILE/tree/modul-5) |
 | 6  | 17 September 2025 | Modul VI – Widget GridView, ListView, GridView.builder, dan ListView.builder | [laporan disini](https://docs.google.com/document/d/12arj9jfeEkxrdKmFwC59nV3P4B2v8n3EPrshqCxSekk/edit?tab=t.7y5w32agxumt) | [repo disini](https://github.com/hanifahifa/PRAKTIKUM_MOBILE/tree/modul-6) |
+| 6  | 24 September 2025 | Modul VII - Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [laporan disini]() | [repo disini](https://github.com/hanifahifa/PRAKTIKUM_MOBILE/tree/modul-7) |
+| 6  | 24 September 2025 | Modul VIII – Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [laporan disini]() | [repo disini](https://github.com/hanifahifa/PRAKTIKUM_MOBILE/tree/modul-8) |
+
 
